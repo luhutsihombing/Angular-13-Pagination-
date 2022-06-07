@@ -1,8 +1,4 @@
-Angular 13 Pagination 
-Technology
-Angular 13
-RxJS 7
-ngx-pagination 5
+# Angular 13 Pagination example with ngx-pagination
 
-Use API 
-https://reqres.in/api/users?page=1&per_page=9
+For instruction, please visit:
+> [Angular 13 Pagination example with ngx-pagination](https://www.bezkoder.com/angular-13-pagination-ngx//)
